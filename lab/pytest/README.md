@@ -4,7 +4,7 @@
 
 Enter the following command in your terminal:
 
-> $ pip install pytest
+> $ pip3 install pytest
 
 Note: If you get an the following warning:
 
